@@ -12,5 +12,11 @@ public class Main {
        XEon.Temp="40";
        XEon.country="Morocco";
 
+       Planet1 pln=new Planet1();
+       pln.name="reon";
+       pln.color="pink";
+       pln.temp="-45celcius";
+       pln.size="1cm";
+
     }
 }

@@ -10,7 +10,7 @@ public class Main {
        XEon.Name="treo";
        XEon.Size="5224";
        XEon.Temp="40";
-       XEon.country="Morocco;
+       XEon.country="Morocco";
 
     }
 }
